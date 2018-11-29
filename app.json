@@ -1,0 +1,15 @@
+{
+  "name": "FriendFinder",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
